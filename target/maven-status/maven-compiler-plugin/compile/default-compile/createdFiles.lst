@@ -1,0 +1,5 @@
+com/pck_prot/Memory.class
+com/pck_prot/MemoryCollector.class
+com/pck_prot/CPUCollector.class
+com/pck_prot/CPU.class
+com/pck_prot/Boot.class
